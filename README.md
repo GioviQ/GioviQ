@@ -2,6 +2,8 @@
 
 :gift: [Buy me a Gift Card on Amazon.it for email giovanni:e-mail:quarella.net](https://amzn.to/2E49sAm)
 
+:euro: [PayPal.Me](https://www.paypal.com/paypalme/GiovanniQuarella)
+
 <!--
 **GioviQ/GioviQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
