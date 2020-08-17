@@ -1,8 +1,11 @@
 ### 🌱 I’m currently learning Blazor
 
-:gift: [Buy me a Gift Card on Amazon.it for email giovanni:e-mail:quarella.net](https://amzn.to/2E49sAm)
+:gift: [Buy me a Gift Card on Amazon.it to email giovanni:e-mail:quarella.net](https://amzn.to/2E49sAm)
 
 :euro: [PayPal.Me](https://www.paypal.com/paypalme/GiovanniQuarella)
+
+- 🔭 I’m currently working on https://github.com/enkodellc/blazorboilerplate/tree/development
+
 
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 
