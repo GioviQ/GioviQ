@@ -1,6 +1,6 @@
 ### 🌱 I’m currently learning Blazor
 
-:gift: [Buy me a Gift Card on Amazon.it](https://amzn.to/2E49sAm)
+:gift: [Buy me a Gift Card on Amazon.it for email giovanni:e-mail:quarella.net](https://amzn.to/2E49sAm)
 
 <!--
 **GioviQ/GioviQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
