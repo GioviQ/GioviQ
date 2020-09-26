@@ -9,7 +9,7 @@
 ## The developer laws
 
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-- [Don't Reinvent the Whell](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
+- [Don't Reinvent the Wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
 
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 
