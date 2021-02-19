@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning Blazor
+### 🌱 I’m a Blazor developer
 
 :gift: [Buy me a Gift Card on Amazon.it to email giovanni:e-mail:quarella.net](https://amzn.to/2E49sAm)
 
@@ -10,6 +10,7 @@
 
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Don't Reinvent the Wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
+- [Divide et impera](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm)
 - Be lazy. Lazy developers find ways to write as little code as possible.
 
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
