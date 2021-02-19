@@ -4,12 +4,13 @@
 
 :euro: [PayPal.Me](https://www.paypal.com/paypalme/GiovanniQuarella)
 
-- 🔭 I’m currently working on https://github.com/enkodellc/blazorboilerplate/tree/development
+- 🔭 I’m currently working on https://github.com/enkodellc/blazorboilerplate
 
 ## The developer laws
 
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Don't Reinvent the Wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
+- Be lazy. Lazy developers find ways to write as little code as possible.
 
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 
