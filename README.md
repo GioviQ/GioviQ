@@ -1,4 +1,4 @@
-### 🌱 I’m a Blazor developer
+### 🌱 I’m a .NET developer
 
 :gift: [Buy me a Gift Card on Amazon.it to email giovanni:e-mail:quarella.net](https://amzn.to/2E49sAm)
 
