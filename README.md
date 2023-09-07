@@ -4,7 +4,7 @@
 
 :euro: [PayPal.Me](https://www.paypal.com/paypalme/GiovanniQuarella)
 
-- 🔭 I’m currently working on https://github.com/enkodellc/blazorboilerplate
+- 🔭 I’m currently working on Blazor web apps
 
 ## The developer laws
 
